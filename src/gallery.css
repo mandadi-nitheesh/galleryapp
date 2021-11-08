@@ -1,0 +1,15 @@
+
+.row1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+    
+}
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
